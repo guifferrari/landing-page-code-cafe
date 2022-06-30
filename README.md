@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Gif
 
-[<img src="./src/images/gif-landing-page-code-cafe.gif" alt="gif da tela inicial do projeto da cafeteria code cafe, em duas resoluções">](https://github.com/guifferrari/landing-page-code-cafe)
+[<img src="./src/images/gif-landing-page-code-cafe.gif" alt="gif da tela inicial do projeto da cafeteria code cafe, em duas resoluções">](https://guifferrari.github.io/landing-page-code-cafe/)
 
 # Click the icon at the top right corner of the gif to check the project's github page
 
